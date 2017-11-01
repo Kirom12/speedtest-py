@@ -31,6 +31,6 @@ Command line tool to test the download/upload speed and ping of a network during
       speedtest.py -i 30 -d 3600
       speedtest.py -i 60 -d 0
 
-## Knows bugs
+## Known bugs
    * Microseconds are displayed on png graph
    * Duration time is not 100% correct (use -d 0)!
