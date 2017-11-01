@@ -5,8 +5,10 @@ Command line tool to test the download/upload speed and ping of a network during
 ## Requirements
 * Python > 3
 * [speedtest-cli](https://github.com/sivel/speedtest-cli)
+    
     sudo pip install matplotlib
 * [matplotlib](https://matplotlib.org/users/installing.html)
+    
     sudo pip install matplotlib
 
 ## Installation
