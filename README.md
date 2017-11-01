@@ -3,14 +3,14 @@
 Command line tool to test the download/upload speed and ping of a network during a determined time
 
 ## Requirements
-*Python > 3
++ Python > 3
 
-*[speedtest-cli](https://github.com/sivel/speedtest-cli)
-
-    sudo pip install speedtest-cli
-*[matplotlib](https://matplotlib.org/users/installing.html)
-
-    sudo pip install matplotlib
++ [speedtest-cli](https://github.com/sivel/speedtest-cli)
+        
+        sudo pip install speedtest-cli
++ [matplotlib](https://matplotlib.org/users/installing.html)
+        
+        sudo pip install matplotlib
 
 ## Installation
     git clone https://github.com/Kirom12/speedtest-py.git
